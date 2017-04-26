@@ -65,8 +65,14 @@ python content.py --bag tri
 
 python content.py --bag all
 ```
-For running the experiments using the tfidf n-grams: `--tfidf uni`, `--tfidf bi`, `--tfidf tri`, `--tfidf all`
-For running the experiments using the pos n-grams: `--pos uni`, `--pos bi`, `--pos tri`, `--pos all`
+
+
+For running the experiments using the tfidf n-grams: `--tfidf uni`, `--tfidf bi`, `--tfidf tri`, `--tfidf all`.
+
+
+For running the experiments using the pos n-grams: `--pos uni`, `--pos bi`, `--pos tri`, `--pos all`.
+
+
 For plotting the C parameters and the accuracy for each feature: `python content.py --plot`
 
 
