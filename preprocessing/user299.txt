@@ -1,0 +1,87 @@
+Learn how to analize the Voice of the Customer using semantic processing presentation at SAS14
+just published Lemmatization POS and Parsing 1 1 API on The Cloud API Hub mashape api
+RT Feature level sentiment analysis diving into the world of comic books nlproc
+RT has APIs to integrate w meaning extraction data semantic publishing more
+RT Our perspectives on the TextAnalytics market blog
+Twitter is rich with adverse drug reaction data but it s hard to parse v a
+Use Textalytics API with the GATE plug in Textalytics Blog
+Use Textalytics API with the GATE plug in Textalytics Blog
+Use Textalytics API with the GATE plug in Textalytics Blog
+Habr que probarlo Skype Translator will let you chat in real time with people in other languages later this year
+Use Textalytics API with the GATE plug in Textalytics Blog
+Use Textalytics API with the GATE plug in Textalytics Blog
+ADRSpanishTool a tool for extracting adverse drug reactions and indications en sepln2014
+Large scale Cross lingual Trend Mining Summarization of Realtime Media Streams en sepln2014
+Large scale Cross lingual Trend Mining Summarization of Realtime Media Streams en sepln2014
+RT We won Ubuntu s TADHack prize with our speech to text app
+and friends won Ubuntu s TADHack prize with a speech to text app using APIs Congrats
+RT This year RepLab will explore new scenarios and offer new tasks
+ADRSpanishTool a tool for extracting adverse drug reactions and indications en sepln2014
+ADRSpanishTool a tool for extracting adverse drug reactions and indications en sepln2014
+RT Make your content more relevant to search engines and more attractive to users SEO InboundMarketing
+RT Make your content more relevant to search engines and more attractive to users SEO InboundMarketing
+and friends won Ubuntu s TADHack prize with a speech to text app using APIs Congrats
+Large scale Cross lingual Trend Mining Summarization of Realtime Media Streams en sepln2014
+Adding Data Visualization Layer to Interactive API Documentation
+Google Building a Domain Registration Service
+More Teens Using Facebook and I can t understand why
+How to Keep Customers Happily Paying Forever through subscriptipons
+Grand Rounds Raises 40 Million To Ensure The Best Doctor Will See You Now similar to
+RT Amazon s CTO wants all of your content to follow you everywhere
+Salesforce joins forces with Philips for patient relationship management and data integration including EHR
+RT Interested in Text Analytics Forget programming Download free tool for Excel from
+Takes Meaning As A Service To Excel GATE And CMS Systems v a
+Viralheat Is Using Social Media Sentiment To Predict Buying Behavior Forbes
+LinkedIn acquires machine learning startup Newsle VC Circle
+Neural networks still around What is deep learning and why should you care O Reilly Radar
+RT Who s doing in spreadsheet text analysis beyond
+Free report Text Analytics 2014 User Perspectives on Solutions and Providers BigData
+Microsoft named a Leader in Agile Business Intelligence by Forrester
+Privacy Analytics raises 3 5M for health data anonymization VentureBeat
+Social data a new source for disease surveillance TechTarget
+RT An Introduction to Text Mining using Twitter Streaming API and Python Adil Moujahi via
+Getting Lean in Education By Getting Out of the Classroom
+Healthcare s digital future McKinsey Company
+A rough way to compute sentiment but interesting work Using sentiment analysis to predict ratings of tv series
+Can a machine detect sarcasm Yeah right
+All that glitters is not gold Amazon cloudy outlook v a
+The Future of Marketing Will Be Semantic Shifting Search Part 1 via
+RAML The Birth of an API Description Language Fit for the Enterprise RAML Blog
+Next steps in getting more women in the tech sector
+Giving Startups their Big Start How Developer Challenges Make the Difference
+Recent Study Shows That mHealth Increases Patient Engagement
+The Data Scientist on a Quest to Turn Computers Into Doctors Enterprise WIRED
+Innovate as fast as you can Announcing Health 2 0 SF Code A Thon
+Introducing SPARQLGraph a Platform for Querying Biological Semantic Web Databases
+Integrating in the middle would be great infogr am Import io The Richest Football Teams Viz
+Twenty Two Trends Shaping the Future of Medicine The List
+RT Semantic Technologies for Healthcare presentation ehealth
+An algorithm to figure out your gender Boing Boing
+and at SEPLN2014 industry demonstrations just 3 days left
+Why news organizations need to invest in better linking and tagging Quartz
+How Google Fit and Apple Healthkit integrate patient data from health apps iMedicalApps
+Unstructured Data Unlocks Business Value for Pa via
+Google trial lets you chat with doctors when you search for symptoms via
+Text Analytics Solutions for Emergency Management join us 4 5 Dec Brussels blog nlproc
+How Social Data Powers Customer Experience pgm w me
+Interesting an open source graph database Catching up with Neo4j
+How to analyze content related to healthcare in social networks blog nlp text analytics
+How to analyze content related to healthcare in social networks blog nlp text analytics
+How to analyze content related to healthcare in social networks blog nlp text analytics
+How to analyze content related to healthcare in social networks blog nlp text analytics
+The State of the Spanish Startup Scene v a
+Why Big Data and analytics should care about my burning waterskis
+Biased Estimates Recap NLP toolkit focus on R
+BuzzFeed s deal with Facebook to measure political sentiment has one major flaw Gigaom
+Home Health 2 0 via
+Advanced text analytics within pharmacogenomics and personalized medicine I2E for via
+SemEval Aspect Based Sentiment Analysis Competition via
+Publishing and big data social sentiment analysis via
+eHealth Initiative 2020 Roadmap Seeks to Address Government Gridlock Health Data Management
+RT from is introducing Spanish financialusecase final review
+Text Analytics Solutions for Emergency Management join us 4 5 Dec Brussels blog nlproc
+Google s Process for Translating Pictures into Words
+Seldon Predictive API makes Life Easier for Data Scientists
+2015 Trends in Big Data Real Time DATAVERSITY
+Call for Speakers Sentiment Analysis Symposium Workshops Breakthrough Analysis
+The implementation of standardized APIs for banking in the UK begins BBVA Innovation Center
