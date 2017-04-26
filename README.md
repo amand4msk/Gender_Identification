@@ -45,15 +45,19 @@ These files contain the counts for each style-based feature and the true labels 
 ## Run experiments
 
 Extract counts of mentions, hashTags, Urls and punctuation signs features:
-python structural.py --extract 
+```
+python structural.py --extract
+``` 
 
 Run the experiments using the style-based features:
-
+```
 python structural.py
+
+```
 
 
 Run the experiments using the bag of unigrams, bigrams, trigrams:
-
+```
 python content.py --bag uni
 
 python content.py --bag bi
@@ -61,9 +65,9 @@ python content.py --bag bi
 python content.py --bag tri
 
 python content.py --bag all
-
-For running the experiments using the tfidf n-grams: --tfidf uni, --tfidf bi, --tfidf tri, --tfidf all
-For running the experiments using the pos n-grams: --pos uni, --pos bi, --pos tri, --pos all
-For plotting the C parameters and the accuracy for each feature: python content.py --plot
+```
+For running the experiments using the tfidf n-grams: `--tfidf uni`, `--tfidf bi`, `--tfidf tri`, `--tfidf all`
+For running the experiments using the pos n-grams: `--pos uni`, `--pos bi`, `--pos tri`, `--pos all`
+For plotting the C parameters and the accuracy for each feature: `python content.py --plot`
 
 
