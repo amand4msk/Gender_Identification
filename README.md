@@ -52,7 +52,6 @@ python structural.py --extract
 Run the experiments using the style-based features:
 ```
 python structural.py
-
 ```
 
 
